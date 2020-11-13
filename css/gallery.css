@@ -43,3 +43,15 @@
   padding-bottom: 30px;
 }
 
+.image_link{
+  text-decoration: none;
+  color: white;
+  font-size: 35px;
+  font-family: 'Dosis', sans-serif;
+  letter-spacing: 3px;
+}
+
+.image_link:hover{
+  text-decoration: none;
+  color: #f8cc01 ;
+}
