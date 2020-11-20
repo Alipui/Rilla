@@ -78,12 +78,13 @@
 .button {
   background-color: #f8cc01;
   border: none;
-  color: white;
+  color: #f8cc01;
   padding: 8px 16px;
   text-align: center;
+  letter-spacing: 8px;
   text-decoration: none;
   display: inline-block;
-  font-size: 18px;
+  font-size: 25px;
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
@@ -92,7 +93,7 @@
 }
 
 .the_button {
-  background-color: black;
+  background-color: transparent;
   color: #f8cc01;
   border: 2px solid #f8cc01;
 
